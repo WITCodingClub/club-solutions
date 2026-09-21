@@ -13,4 +13,4 @@ This repository holds the solutions for the various challenges completed during 
 
 ## How to check your solution
 
-Go to the folder of the meeting day, then find the folder that has "- Main" at the end. This folder contains the master input and solution which you can use to check your work. If you have questions or need assistance, DM Logan or Daniel on Discord.
+Go to the folder of the meeting day, then find the folder that has "- Main" at the end. This folder contains the master input and solution which you can use to check your work. If you have questions or need assistance, ask in the discord server!
